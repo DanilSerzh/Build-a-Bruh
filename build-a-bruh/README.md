@@ -1,6 +1,7 @@
-# Getting Started with Create React App
+# Avatar Constructor
+In this task, it was necessary to make an avatar constructor by overlaying and connecting several sprites into one picture. Sprites are switched by selectors, and the download button downloads the file of the made avatar to the computer in PNG format.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[DEMO](https://DanilSerzh.github.io/Build-a-Bruh/)
 
 ## Available Scripts
 
@@ -13,11 +14,6 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
 ### `npm run build`
 
